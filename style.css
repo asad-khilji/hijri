@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f4f6f8;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.date-box {
+  background: white;
+  padding: 30px;
+  border-radius: 16px;
+  width: 320px;
+  box-shadow: 0 8px 25px rgba(0,0,0,0.1);
+  text-align: center;
+}
+
+.date-card {
+  margin-top: 18px;
+  padding: 18px;
+  border-radius: 12px;
+  background: #eef4ff;
+}
+
+.date-card span {
+  display: block;
+  font-size: 14px;
+  color: #555;
+}
+
+.date-card strong {
+  display: block;
+  margin-top: 8px;
+  font-size: 20px;
+  color: #111;
+}
