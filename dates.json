@@ -1,3 +1,15 @@
 [
-  { "gregorian": "2026-07-19", "hijri": "5 Safar 1448" }
+  { "gregorian": "2026-07-19", "hijri": "5 Safar 1448" },
+  { "gregorian": "2026-07-20", "hijri": "6 Safar 1448" },
+  { "gregorian": "2026-07-21", "hijri": "7 Safar 1448" },
+  { "gregorian": "2026-07-22", "hijri": "8 Safar 1448" },
+  { "gregorian": "2026-07-23", "hijri": "9 Safar 1448" },
+  { "gregorian": "2026-07-24", "hijri": "10 Safar 1448" },
+  { "gregorian": "2026-07-25", "hijri": "11 Safar 1448" },
+  { "gregorian": "2026-07-26", "hijri": "12 Safar 1448" },
+  { "gregorian": "2026-07-27", "hijri": "13 Safar 1448" },
+  { "gregorian": "2026-07-28", "hijri": "14 Safar 1448" },
+  { "gregorian": "2026-07-29", "hijri": "15 Safar 1448" },
+  { "gregorian": "2026-07-30", "hijri": "16 Safar 1448" },
+  { "gregorian": "2026-07-31", "hijri": "17 Safar 1448" }
 ]
